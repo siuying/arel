@@ -1,3 +1,5 @@
+files += Dir.glob(File.join(app.project_dir, 'vendor/arel/lib/**/*.rb'))
+
 file_dependencies 'arel/attributes/attribute' => 'arel/attributes'
 
 file_dependencies 'arel/visitors/visitor' => 'arel/attributes'
