@@ -1,5 +1,5 @@
-require 'bigdecimal'
-require 'date'
+# require 'bigdecimal'
+# require 'date'
 
 module Arel
   module Visitors

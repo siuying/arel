@@ -1,4 +1,4 @@
-require 'arel/attributes/attribute'
+# require 'arel/attributes/attribute'
 
 module Arel
   module Attributes
